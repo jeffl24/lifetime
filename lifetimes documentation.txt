@@ -1,1 +1,3 @@
 http://lifetimes.readthedocs.io/en/latest/Quickstart.html 
+
+https://josepcurtodiaz.gitbooks.io/customer-analytics-with-r/content/chapter3.html 
